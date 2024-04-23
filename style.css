@@ -43,3 +43,7 @@ border: 2px solid var(--branco-principal);
     display: block;
     text-decoration: none;
 }
+.container-titulo{
+    font-size: 28px;
+    font-weight: 700;
+}
