@@ -57,3 +57,19 @@ border: 2px solid var(--branco-principal);
 .container-caixa{
     margin: 0 6em;
 }
+.secundario-imagem{
+    width: 80%;
+}
+.secundario{
+    align-items: center;
+    margin: 0 10em;
+}
+.descricao-titulo{
+    font-weight: 700;
+font-size: 48px;
+color: var(--branco-principal);
+margin-bottom: 0.1em;
+}
+.descricao-texto{
+    color: var(--cinza-secundario)
+}
