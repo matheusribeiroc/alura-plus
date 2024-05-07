@@ -73,3 +73,6 @@ margin-bottom: 0.1em;
 .descricao-texto{
     color: var(--cinza-secundario)
 }
+.container-descricao{
+    padding: 2em;
+}
